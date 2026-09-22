@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DSA.Fundamentals.Tests/DSA.Fundamentals.Tests.csproj" />
+  <Project Path="DSA.Fundamentals/DSA.Fundamentals.csproj" />
+</Solution>
