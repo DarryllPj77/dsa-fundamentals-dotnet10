@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="ArrayOneDimensional/ArrayOneDimensional.csproj" Id="56039017-fa39-434d-b88e-e188536c97e9" />
+  <Project Path="ArraysFundamentals/ArraysFundamentals.csproj" />
+  <Project Path="BasicArrayOperations/BasicArrayOperations.csproj" Id="b7ed1f59-822a-49b2-978d-a5405739eca5" />
+  <Project Path="ChallengeDelInsert/ChallengeDelInsert.csproj" Id="41686ebe-8d60-4078-bde8-d61b632a3a48" />
+  <Project Path="Collection&amp;List/Collection&amp;List.csproj" Id="6393e673-eff0-4378-aa46-6aac3c013559" />
+  <Project Path="Collection/Collection.csproj" Id="008a762f-93b1-4629-b763-2c7ddccae1a6" />
+  <Project Path="ConceptDelInsert/ConceptDelInsert.csproj" Id="63694e61-bedc-4fc7-90a8-22f531d13c9c" />
+  <Project Path="Enumerable/Enumerable.csproj" Id="5e5fe267-5b77-44b6-8bc9-da58d680376d" />
+  <Project Path="ForLoopMechanics/ForLoopMechanics.csproj" Id="f6150a84-88f3-47d9-8ef8-10a748b588d8" />
+  <Project Path="JaggedArrays/JaggedArrays.csproj" Id="6f5c256b-4251-4de0-b8d8-539aa1821fab" />
+  <Project Path="List/List.csproj" Id="ee2c99c8-1bfe-40b3-be8e-c3f94ad44015" />
+  <Project Path="SimpleAlgowC-sharp/SimpleAlgowC-sharp.csproj" Id="389d5d49-4b8a-44e0-aba5-439726fd2910" />
+  <Project Path="SolvingOneDimensional/SolvingOneDimensional.csproj" Id="c4275954-2cc0-4bc0-916a-685ab5d75ed8" />
+</Solution>
